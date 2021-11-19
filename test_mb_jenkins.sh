@@ -1,3 +1,3 @@
 #!/bin/bash 
-# Change 01
+# Change 02
 echo "build le : `date +'%D'`" >> /home/jenkins/test_mb_jenkins.log 
